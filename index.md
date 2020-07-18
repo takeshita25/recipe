@@ -1,17 +1,9 @@
 # リスト
 
-## 卵
-<div class="list">
-
-### ・ [卵チャーハン](#卵チャーハン)
-### ・ [豚ばら肉と青じそのロール巻き](#豚ばら肉と青じそのロール巻き)
-
-<style>
-.list{
-    column-count: 2;
-}
-</style>
-</div>
+- ## 卵
+    - ### [卵チャーハン](#卵チャーハン)
+- ## 豚肉
+    - ### [豚ばら肉と青じそのロール巻き](#豚ばら肉と青じそのロール巻き)
 
 ---
 
@@ -20,23 +12,13 @@
 <img src="./img/eggFriedRice.png" width="250">
 
 【材料】
-<pre>
-・ ご飯                 1.5合
-・ 卵                   2個
-・ ネギ                 1/2本
-・ 中華あじ             小1.5
-・ 塩                   少々
-・ 胡椒                 少々
-</pre>
+- ご飯&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.5合
+- 卵&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2個
+- ネギ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1/2本
+- 中華あじ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;小1.5
+- 塩&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;少々
+- 胡椒&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;少々
 
-<!--
-- ご飯          1.5合
-- 卵            2個
-- ネギ          1/2本
-- 中華あじ      小1.5
-- 塩            少々
-- 胡椒          少々
--->
 
 【工程】
 1. ご飯に卵をからめておく
@@ -48,21 +30,21 @@
 <img src="./img/porkMacrophyll.png" width="250">
 
 【材料】
-- 豚ばら肉		10枚
-- しょうが		1片
-- にんにく		1片
-- 塩			少々
-- 胡椒			少々
-- 青じそ		15枚
-- 片栗粉		適量
-- すりごま		少々
+- 豚ばら肉&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10枚
+- しょうが&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1片
+- にんにく&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1片
+- 塩&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;少々
+- 胡椒&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;少々
+- 青じそ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;15枚
+- 片栗粉&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;適量
+- すりごま&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;少々
 
   ■合わせ調味料
-- 醤油			大さじ2
-- 酒			大さじ2
-- みりん		大さじ2
-- 砂糖			大さじ1
-- だし汁		大さじ3
+- 醤油&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
+- 酒&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
+- みりん&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
+- 砂糖&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ1
+- だし汁&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ3
 
 【工程】
 1. 豚肉を2枚ずつ重ねて広げ，おろししょうがとおろしにんにくを塗る
