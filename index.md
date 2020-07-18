@@ -40,11 +40,11 @@
 - すりごま&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;少々
 
   ■合わせ調味料
-- 醤油&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
-- 酒&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
-- みりん&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
-- 砂糖&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ1
-- だし汁&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ3
+    - 醤油&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
+    - 酒&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
+    - みりん&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
+    - 砂糖&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ1
+    - だし汁&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ3
 
 【工程】
 1. 豚肉を2枚ずつ重ねて広げ，おろししょうがとおろしにんにくを塗る
