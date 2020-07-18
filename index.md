@@ -1,9 +1,12 @@
 # リスト
 
 - ## 卵
-    - ### [卵チャーハン](#卵チャーハン)
+
+    - ### [卵チャーハン](##卵チャーハン)
+
 - ## 豚肉
-    - ### [豚ばら肉と青じそのロール巻き](#豚ばら肉と青じそのロール巻き)
+
+    - ### [豚ばら肉と青じそのロール巻き](##豚ばら肉と青じそのロール巻き)
 
 ---
 
@@ -26,6 +29,7 @@
 3. ネギを入れて中華あじ・塩・胡椒で味を調える
 
 ---
+
 ## 豚ばら肉と青じそのロール巻き
 <img src="./img/porkMacrophyll.png" width="250">
 
@@ -40,11 +44,11 @@
 - すりごま&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;少々
 
   ■合わせ調味料
-    - 醤油&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
-    - 酒&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
-    - みりん&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ2
-    - 砂糖&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ1
-    - だし汁&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大さじ3
+    - 醤油&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大2
+    - 酒&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大2
+    - みりん&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大2
+    - 砂糖&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大1
+    - だし汁&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;大3
 
 【工程】
 1. 豚肉を2枚ずつ重ねて広げ，おろししょうがとおろしにんにくを塗る
