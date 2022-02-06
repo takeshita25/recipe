@@ -620,7 +620,7 @@
 <img src="./img/seaBreamAsian.JPG" width="250">
 
 【材料】
-- 金目鯛or真鯛orキンキ   2切
+- 金目鯛or真鯛orキンキ　　2切
 - 長ねぎ　　　　　　　　　1/2本
 - 生姜　　　  　　　　　　1片皮付き
 - パクチー　　　　　　　　適量
